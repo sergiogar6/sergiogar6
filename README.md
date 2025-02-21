@@ -26,12 +26,18 @@ Actualmente estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), con 
 ---
 
 ## 🎓 Educación
-🎓 **Educación Secundaria Obligatoria (ESO)** - *[IES L'ALLUSSER]* 
-📅 [2018 - 2022]
-🎓 **Técnico en Sistemas Microinformáticos y Redes (SMR)** - *[IES MUTXAMEL]*
-📅 [2022 - 2024]
-🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** - *[IES MUTXAMEL]*  
-📅 [2024 - ACTUAL]
+
+🎓 **Educación Secundaria Obligatoria (ESO)**  
+*IES L'ALLUSSER*  
+📅 2018 - 2022  
+
+🎓 **Técnico en Sistemas Microinformáticos y Redes (SMR)**  
+*IES MUTXAMEL*  
+📅 2022 - 2024  
+
+🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+*IES MUTXAMEL*  
+📅 2024 - ACTUAL 
 
 ---
 
