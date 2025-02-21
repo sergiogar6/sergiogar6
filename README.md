@@ -1,16 +1,47 @@
-## Hi there 👋
+# 💻 Sergio García
 
-<!--
-**sergiogar6/sergiogar6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+📍 Ubicación | 📧 [sergiog.asuncion@gmail.com](mailto:sergiog.asuncion@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/sergio-garcía-asunción-11b731352)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+Actualmente estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), con un enfoque en el desarrollo en Java. Apasionado por la creación de soluciones eficientes y escalables. Me especializo en el desarrollo backend y disfruto contribuir a proyectos de código abierto.
+
+---
+
+## 🛠️ Habilidades
+
+- **Lenguajes**: Java, SQL
+- **Bases de Datos**: SSMS
+- **Herramientas**: Git
+
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🔨🔨🔨🔨🔨🔨
+
+---
+
+## 🎓 Educación
+🎓 **Educación Secundaria Obligatoria (ESO)** - *[IES L'ALLUSSER]* 
+📅 [2018 - 2022]
+🎓 **Técnico en Sistemas Microinformáticos y Redes (SMR)** - *[IES MUTXAMEL]*
+📅 [2022 - 2024]
+🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** - *[IES MUTXAMEL]*  
+📅 [2024 - ACTUAL]
+
+---
+
+## 🌍 Idiomas
+
+- **Español** (Nativo)
+- **Inglés** (Intermedio/Avanzado)
+
+---
+
+## 📬 Contacto
+📧 [sergiog.asuncion@gmail.com](mailto:sergiog.asuncion@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sergio-garcía-asunción-11b731352)
