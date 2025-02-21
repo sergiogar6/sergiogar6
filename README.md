@@ -1,7 +1,7 @@
 # 💻 Sergio García
 
 **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-📍 Ubicación | 📧 [sergiog.asuncion@gmail.com](mailto:sergiog.asuncion@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/sergio-garcía-asunción-11b731352)
+📍 Alicante/Mutxamel | 📧 [sergiog.asuncion@gmail.com](mailto:sergiog.asuncion@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/sergio-garcía-asunción-11b731352)
 
 ---
 
