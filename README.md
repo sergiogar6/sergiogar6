@@ -16,13 +16,6 @@ Actualmente estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), con 
 - **Bases de Datos**: SSMS
 - **Herramientas**: Git
 
-
----
-
-## 📂 Proyectos Destacados
-
-### 🔨🔨🔨🔨🔨🔨
-
 ---
 
 ## 🎓 Educación
@@ -44,7 +37,7 @@ Actualmente estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), con 
 ## 🌍 Idiomas
 
 - **Español** (Nativo)
-- **Inglés** (Intermedio/Avanzado)
+- **Inglés** (Intermedio)
 
 ---
 
