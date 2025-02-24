@@ -30,7 +30,7 @@ Actualmente estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), con 
 
 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 *IES MUTXAMEL*  
-📅 2024 - ACTUAL 
+📅 2024 - ACTUAL (cursando)
 
 ---
 
