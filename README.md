@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre mí
-Actualmente estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), con un enfoque en el desarrollo en Java. Apasionado por la creación de soluciones eficientes y escalables. Me especializo en el desarrollo backend y disfruto contribuir a proyectos de código abierto.
+Actualmente estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), con un enfoque en el desarrollo en Java. Se me da bien tanto trabajar en equipo como de forma individual, y siempre estoy buscando aprender cosas nuevas por mi cuenta. Mi objetivo es seguir mejorando y adentrarme en proyectos interesantes o crear los mios.
 
 ---
 
